@@ -142,5 +142,3 @@ let schedule = loanSchedule.calculateSchedule({
      );
 });
 ```
-
-If you have any questions, you could send their via email: [timmson666@mail.ru](mailto:timmson666@mail.ru?subjet=loan-schedule.js)
